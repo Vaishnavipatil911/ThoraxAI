@@ -42,7 +42,7 @@ pneumonia-detection/
     
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/pneumonia-detection.git
+git clone https://github.com/Vaishnavipatil911/Pneumonia_detection
 
 cd pneumonia-detection
 2. Create Virtual Environment
